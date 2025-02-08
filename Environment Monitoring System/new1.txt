@@ -1,0 +1,101 @@
+
+Station: Station 1
+Temperature: -12.2222�C
+Humidity: 20%
+Air Quality: 30
+Station: Station 2
+Temperature: 4.44444�C
+Humidity: 50%
+Air Quality: 60
+Station: Station 3
+Temperature: -1.11111�C
+Humidity: 10%
+Air Quality: 3
+Station: Station 4
+Temperature: -15.5556�C
+Humidity: 5%
+Air Quality: 6
+Station: Station 5
+Temperature: -17.2222�C
+Humidity: 2%
+Air Quality: 3
+Station: Station 1
+Temperature: -17.2222°C
+Humidity: 2%
+Air Quality: 3
+Station: Station 2
+Temperature: -16.1111°C
+Humidity: 4%
+Air Quality: 5
+Station: Station 3
+Temperature: -13.8889°C
+Humidity: 8%
+Air Quality: 9
+Station: Station 4
+Temperature: -15°C
+Humidity: 6%
+Air Quality: 7
+Station: Station 5
+Temperature: -16.1111°C
+Humidity: 4%
+Air Quality: 5
+Station: Station 1
+Temperature: -11.1111°C
+Humidity: 13%
+Air Quality: 14
+Station: Station 2
+Temperature: -10°C
+Humidity: 15%
+Air Quality: 16
+Station: Station 3
+Temperature: -10.5556°C
+Humidity: 14%
+Air Quality: 12
+Station: Station 4
+Temperature: -17.2222°C
+Humidity: 2%
+Air Quality: 3
+Station: Station 5
+Temperature: -16.6667°C
+Humidity: 3%
+Air Quality: 4
+Station: Station 1
+Temperature: -16.6667°C
+Humidity: 3%
+Air Quality: 2
+Station: Station 2
+Temperature: -16.6667°C
+Humidity: 3%
+Air Quality: 4
+Station: Station 3
+Temperature: -17.2222°C
+Humidity: 2%
+Air Quality: 3
+Station: Station 4
+Temperature: -13.8889°C
+Humidity: 6%
+Air Quality: 8
+Station: Station 5
+Temperature: -11.1111°C
+Humidity: 23%
+Air Quality: 34
+Station: Station 1
+Temperature: -11.1111°C
+Humidity: 13%
+Air Quality: 14
+Station: Station 2
+Temperature: -9.44444°C
+Humidity: 16%
+Air Quality: 17
+Station: Station 3
+Temperature: 36.6667°C
+Humidity: 96%
+Air Quality: 95
+Station: Station 4
+Temperature: 1.11111°C
+Humidity: 45%
+Air Quality: 36
+Station: Station 5
+Temperature: -5°C
+Humidity: 12%
+Air Quality: 13
